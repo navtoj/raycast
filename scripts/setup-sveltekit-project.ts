@@ -13,7 +13,7 @@ import { getPathInfo, subprocess } from 'https://deno.land/x/scripting@0.0.9/mod
 
 // Required parameters:
 // @raycast.schemaVersion 1
-// @raycast.title Setup SvelteKit Project
+//// @raycast.title Setup SvelteKit Project
 // @raycast.mode fullOutput
 
 // Optional parameters:
